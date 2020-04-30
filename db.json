@@ -1,1 +1,11 @@
-{"view":{"Term0":[{"FullName":"AM","DisplayName":"AM","Id":"00be9017-8401-4f3d-a8ca-d1b87f639ea6","Vocabulary1":[{"Domain_Name":"Covance Common Glossary","Domain_Id":"98584e94-11a6-4b4f-91ca-bb74266b9990","Community2":[{"Domain_Community_Name":"Enterprise Covance Glossary","Domain_Community_HasNonMetaChildren":true,"Domain_Community_Id":"1e185646-faa3-4e82-963a-ed2138cc73c9"}]}],"Status3":[{"Status_Id":"00000000-0000-0000-0000-000000005009"}],"AssetType4":[{"AssetType_Color":"#0072BC","AssetType_SymbolType":"ACRONYM_CODE","AssetType_AcronymCode":"ACR","AssetType_DisplayNameEnabled":false,"AssetType_Name":"Acronym","AssetType_Id":"00000000-0000-0000-0000-000000011003"}],"StringAttribute5":[{"StringAttribute_00000000-0000-0000-0000-000000000202_Value":"Account Manager","StringAttribute_00000000-0000-0000-0000-000000000202_Id":"a930133c-1057-4298-85a3-892d86767fc2"}]}]}}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
